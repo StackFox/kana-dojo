@@ -386,7 +386,7 @@
     "english": "Relax, I'm the strongest.",
     "anime": "Jujutsu Kaisen",
     "character": "Satoru Gojo",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -397,7 +397,7 @@
     "anime": "Chainsaw Man",
     "character": "Denji",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 41,
