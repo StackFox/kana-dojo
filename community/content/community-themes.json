@@ -310,5 +310,11 @@
     "backgroundColor": "oklch(17.0% 0.030 245.0 / 1)",
     "mainColor": "oklch(88.0% 0.055 230.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.145 210.0 / 1)"
+  },
+  {
+    "id": "cherry-cola",
+    "backgroundColor": "oklch(18.0% 0.055 20.0 / 1)",
+    "mainColor": "oklch(58.0% 0.195 25.0 / 1)",
+    "secondaryColor": "oklch(70.0% 0.145 50.0 / 1)"
   }
 ]
