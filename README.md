@@ -8,6 +8,10 @@
 <br/>
 <br/>
 </p>
+<br />
+<a href="https://cossistant.com/open-source-program">
+<img alt="Cossistant OSS Program" src="https://cdn.cossistant.com/oss/oss-friends.svg" />
+</a>
 
 <div id="top"></div>
 
@@ -21,8 +25,9 @@
 
 **An aesthetic, minimalist, and highly customizable platform for mastering Japanese, inspired by Duolingo and Monkeytype. Built with Next.js and sponsored by Vercel.**
 
-[![Vercel OSS Program](https://img.shields.io/badge/Vercel-OSS%20Program-black?style=for-the-badge&logo=vercel)](https://vercel.com/oss)
+[![Vercel OSS Program](https://img.shields.io/badge/Vercel-OSS%20Program-black?style=for-the-badge&logo=vercel)](https://vercel.com/open-source-program)
 [![Sponsored by Vercel](https://img.shields.io/badge/Sponsored%20by-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/oss)
+[![Sponsored by Cossistant](https://cdn.cossistant.com/oss/oss-friends.svg)](https://cossistant.com/open-source-program)
 [![Live Demo](https://img.shields.io/badge/demo-kanadojo.com-blue?style=for-the-badge)](https://kanadojo.com)
 [![DeepWiki](https://img.shields.io/badge/docs-DeepWiki-purple?style=for-the-badge)](https://deepwiki.com/lingdojo/kana-dojo)
 [![Good First Issues](https://img.shields.io/github/issues-search/lingdojo/kana-dojo?query=is%3Aissue+is%3Aopen+label%3A%22good%20first%20issue%22&style=for-the-badge&label=good%20first%20issues&color=brightgreen)](https://github.com/lingdojo/kana-dojo/issues?q=is%3Aissue+is%3Aopen+label%3A%22good%20first%20issue%22)
