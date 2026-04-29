@@ -12,7 +12,7 @@ type SubunitSelectorProps = {
 };
 
 const SUBUNIT_SELECTOR_ACTIVE_FLOAT_CLASSES =
-  'motion-safe:animate-float [--float-distance:-0px] delay-500ms';
+  'motion-safe:animate-float [--float-distance:-0px] delay-250ms';
 
 const SubunitSelector = ({
   subunits,
@@ -54,14 +54,16 @@ const SubunitSelector = ({
               borderBottomThickness={0}
               borderRadius='2xl'
               className={clsx(
-                'relative z-10 w-full px-4 pt-3 pb-5 text-sm',
+                'relative z-10 w-full px-4 pt-3 pb-5 text-center text-sm',
                 isSelected && SUBUNIT_SELECTOR_ACTIVE_FLOAT_CLASSES,
                 isSelected
                   ? 'bg-transparent text-(--background-color)'
                   : 'bg-transparent text-(--main-color) hover:bg-(--border-color)/50',
               )}
             >
-              <span className='hidden sm:inline'>{subunit.label}</span>
+              <span className='hidden sm:inline'>
+                Levels <span className='whitespace-nowrap'>{shortLabel}</span>
+              </span>
               <span className='inline sm:hidden'>{shortLabel}</span>
             </ActionButton>
           </div>
